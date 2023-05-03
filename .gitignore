@@ -1,0 +1,10 @@
+./db.sqlite3
+
+./event/__pycache__/
+./event/migrations/
+
+./knock_knock/__pycache__/
+
+
+./.idea/
+./venv/
